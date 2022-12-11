@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Helper</string>
+    <string name="callString">📞</string>
+    <string name="locationString">📍</string>
+    <string name="megarama">Megarama Cinema</string>
+    <string name="cinema">Fes</string>
+</resources>
